@@ -285,3 +285,4 @@ Follow this [development guide](https://rocketchat.github.io/EmbeddedChat/docs/d
 ## Conclusion
 
 The `EmbeddedChat` component offers a flexible and feature-rich solution for integrating RocketChat into your application. Customize it according to your needs to enhance your app's chat functionality.
+
